@@ -19,4 +19,5 @@ The main aim of this project is to design and develop a smart messaging android 
 
 ## Author
 Name : Moksha Gaur
+
 Created on: 30 October
